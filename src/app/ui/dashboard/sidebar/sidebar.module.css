@@ -1,0 +1,19 @@
+.container{
+  position: static;
+  overflow-y: hidden;
+
+  
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+   
+}
+
+.userRole{
+    font-size: 14px;
+    font-weight: 400;
+   
+}
